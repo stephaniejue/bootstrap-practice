@@ -1,6 +1,7 @@
 h1 {
   font-family: 'Oswald', sans-serif;
   text-align: right;
+  font-size: 4.5em;
 }
 
 h2 {
@@ -10,13 +11,15 @@ h2 {
 
 p {
   font-family: 'Lato', sans-serif;
+  /*text-align: center;*/
 }
 
 img {
   height: 100px;
 }
 a {
-  text-align: right;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
 }
 .language {
   /*height: 250px;*/
@@ -27,15 +30,147 @@ a {
   text-align:center;
   margin: 20px;
 }
-#underhead {
+/*#underhead {
   font-size: 20px;
   text-align: right;
-}
+}*/
 .left_column {
   text-align: right;
 }
-.btn {
-  width: 50px;
+
+button {
+  background-color: white;
+  font-family: 'Oswald', sans-serif;
+}
+
+#copyright {
+  text-align: right;
+  padding: 50px;
+}
+
+.brand {
+  font-family: 'Oswald', sans-serif;
+}
+
+.carousel-control.left, .carousel-control.right{
+  background-image: none;
+  }
+
+.carousel {
+  margin-bottom: 45px;
+}
+
+.code, p > code {
+  background-color: #24272E;
+  color: #9CA3B1;
+  width: 87%;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.code {
+  padding: 10px;
+  overflow: auto;
+}
+p.para {
+  margin-top: 20px;
+}
+#ruby {
+  color: #e70012;
+}
+
+#java {
+  color: #d6ba32;
+}
+
+#html {
+  color: #e34f26;
+}
+
+#c {
+  color: #5e97d0;
+}
+
+#cplus {
+  color: #9b4f96;
+}
+
+#perl {
+  color: #0196c1;
+}
+
+#scala {
+  color: #b10000;
+}
+
+#python {
+  color: #ffd140;
+}
+
+#go {
+  color: #73cddc;
+}
+
+#php {
+  color: #6c7eb7;
+}
+
+/*.dropdown-menu > li > a:hover {
+  background-color: #e70012;
+  background-image: none;
+  color: white;
+}*/
+
+.dropdown-menu > li > a.ruby:hover {
+  background-color: #e70012;
+  background-image: none;
+  color: white;
+}
+
+.dropdown-menu > li > a.js:hover {
+  background-color: #d6ba32;
+  background-image: none;
+  color: white;
+}
+.dropdown-menu > li > a.python:hover {
+  background-color: #ffd140;
+  background-image: none;
+  color: white;
+}
+.dropdown-menu > li > a.perl:hover {
+  background-color: #0196c1;
+  background-image: none;
+  color: white;
+}
+.dropdown-menu > li > a.c_:hover {
+  background-color: #9b4f96;
+  background-image: none;
+  color: white;
+}
+.dropdown-menu > li > a.cplus:hover {
+  background-color: #5e97d0;
+  background-image: none;
+  color: white;
+}
+.dropdown-menu > li > a.scala:hover {
+  background-color: #b10000;
+  background-image: none;
+  color: white;
+}
+.dropdown-menu > li > a.html:hover {
+  background-color: #e34f26;
+  background-image: none;
+  color: white;
+}
+.dropdown-menu > li > a.go:hover {
+  background-color: #73cddc;
+  background-image: none;
+  color: white;
+}
+.dropdown-menu > li > a.php:hover {
+  background-color: #6c7eb7;
+  background-image: none;
+  color: white;
 }
 
 /*#margin-bar {
