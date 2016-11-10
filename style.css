@@ -1,0 +1,51 @@
+h1 {
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
+}
+
+h2 {
+  border-top: 2px solid black;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  height: 100px;
+}
+a {
+  text-align: right;
+}
+.language {
+  /*height: 250px;*/
+  /*margin: 10px;*/
+}
+
+.img-center {
+  text-align:center;
+  margin: 20px;
+}
+#underhead {
+  font-size: 20px;
+  text-align: right;
+}
+.left_column {
+  text-align: right;
+}
+.btn {
+  width: 50px;
+}
+
+/*#margin-bar {
+  float: left;
+  transform: rotate(90deg);
+  transform-origin: 40px 80px 0;
+}*/
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+*/
