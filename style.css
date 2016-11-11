@@ -11,29 +11,22 @@ h2 {
 
 p {
   font-family: 'Lato', sans-serif;
-  /*text-align: center;*/
 }
 
 img {
   height: 100px;
 }
+
 a {
   text-align: left;
   font-family: 'Oswald', sans-serif;
-}
-.language {
-  /*height: 250px;*/
-  /*margin: 10px;*/
 }
 
 .img-center {
   text-align:center;
   margin: 20px;
 }
-/*#underhead {
-  font-size: 20px;
-  text-align: right;
-}*/
+
 .left_column {
   text-align: right;
 }
@@ -115,12 +108,6 @@ p.para {
   color: #6c7eb7;
 }
 
-/*.dropdown-menu > li > a:hover {
-  background-color: #e70012;
-  background-image: none;
-  color: white;
-}*/
-
 .dropdown-menu > li > a.ruby:hover {
   background-color: #e70012;
   background-image: none;
@@ -132,52 +119,54 @@ p.para {
   background-image: none;
   color: white;
 }
+
 .dropdown-menu > li > a.python:hover {
   background-color: #ffd140;
   background-image: none;
   color: white;
 }
+
 .dropdown-menu > li > a.perl:hover {
   background-color: #0196c1;
   background-image: none;
   color: white;
 }
+
 .dropdown-menu > li > a.c_:hover {
   background-color: #9b4f96;
   background-image: none;
   color: white;
 }
+
 .dropdown-menu > li > a.cplus:hover {
   background-color: #5e97d0;
   background-image: none;
   color: white;
 }
+
 .dropdown-menu > li > a.scala:hover {
   background-color: #b10000;
   background-image: none;
   color: white;
 }
+
 .dropdown-menu > li > a.html:hover {
   background-color: #e34f26;
   background-image: none;
   color: white;
 }
+
 .dropdown-menu > li > a.go:hover {
   background-color: #73cddc;
   background-image: none;
   color: white;
 }
+
 .dropdown-menu > li > a.php:hover {
   background-color: #6c7eb7;
   background-image: none;
   color: white;
 }
-
-/*#margin-bar {
-  float: left;
-  transform: rotate(90deg);
-  transform-origin: 40px 80px 0;
-}*/
 
 /* font-family: 'Oswald', sans-serif;
 font-family: 'Lato', sans-serif;
